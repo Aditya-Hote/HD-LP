@@ -1,0 +1,43 @@
+.navbg{
+    background-color: rgb(55, 54, 54);
+    
+}
+.logo{
+    letter-spacing: 1px;
+    font-size: 25px;
+}
+.txt button{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+
+    width: 40%;
+}
+
+.row4 button{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+
+    width: 40%;
+}
+.row3
+{
+ height: 500px;   
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ background-color: rgb(41, 40, 40);
+ color: white;
+
+}
+.row3 input{
+   padding: 10px;
+}
+.row3 button{
+    border: none;
+    padding: 10px 30px;
+}
